@@ -5,7 +5,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.0",
-        "ext-mysqli": "*"
+        "ext-mysqli": "book_collection.sql"
     },
     "autoload": {
         "psr-4": {
